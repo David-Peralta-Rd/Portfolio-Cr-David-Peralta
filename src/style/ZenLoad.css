@@ -1,0 +1,41 @@
+@import url('./ZenHome.css');
+
+:root {
+    /* ── Backgrounds (de más oscuro a más claro) */
+    --bg:           #252525;
+    --panel:        #2e2e2e;
+    --surface:      #383838;
+    --surface-2:    #404040;
+
+    /* ── Borders */
+    --border:       rgba(255,255,255,0.11);
+    --border-hover: rgba(255,255,255,0.20);
+    --border-focus: rgba(255,255,255,0.34);
+
+    /* ── Text */
+    --text-primary:   #eeebe6;
+    --text-secondary: #b0ada8;
+    --text-muted:     #787470;
+
+    /* ── Accent — un blanco apagado / hueso, nada de rojo */
+    --accent:       #c8c2bc;
+    --accent-dim:   rgba(200,194,188,0.13);
+    --accent-soft:  #dedad4;
+
+    /* ── Highlight sutil para featured */
+    --featured-line: #918d89;
+
+    /* ── Typography */
+    --font-display: 'Cormorant Garamond', Georgia, serif;
+    --font-mono:    'DM Mono', 'Courier New', monospace;
+
+    /* ── Layout */
+    --panel-max: 920px;
+    --r-sm: 6px;
+    --r-md: 10px;
+    --r-lg: 18px;
+
+    /* ── Transitions */
+    --t-fast: 160ms ease;
+    --t-med:  300ms ease;
+}

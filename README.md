@@ -2,7 +2,7 @@
 
 Personal developer portfolio built with vanilla HTML, CSS and JavaScript. Minimal, dark, and data-driven — no frameworks, no noise.
 
-**Live demo:** [davidperalta.dev](#)
+**Live demo:** [https://david-peralta-rd.github.io/Portfolio-Cr-David-Peralta/](#)
 
 ---
 

@@ -18,7 +18,7 @@ const ZenData = {
             email: 'crdavidperalta@gmail.com',
             github: 'github.com/David-Peralta-Rd',
             linkedin: 'linkedin.com/in/david-peralta-380652366/',
-            cv: 'CV_Cristian_David_Rodriguez_Peralta_EN.pdf',
+            cv: 'CV_David_Peralta.pdf',
         },
         about: [
             "I'm a software developer from Bogotá with a strong focus on backend systems and data engineering, working toward a career in AI and Machine Learning infrastructure. I'm passionate about building the systems that make intelligent applications work — pipelines, APIs, and the logic that runs underneath.",

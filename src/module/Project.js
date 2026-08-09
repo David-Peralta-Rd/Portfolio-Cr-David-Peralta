@@ -48,7 +48,7 @@ const ZenData = {
             title: 'MinimalistDots',
             year: '2026',
             type: 'Linux',
-            featured: true,
+            featured: false,
             desc: 'This project is a minimalist Hyprland configuration that manages the latest version of Hyprland using Lua. The goal was to set up a professional, minimalist workspace utilizing organized shell scripts for the rapid execution of key tasks, alongside system configuration and shortcuts defined in Lua.',
             tags: ['Lua', 'Bash', 'Sh', 'Python', 'Linux'],
             github: 'https://github.com/David-Peralta-Rd/MinimalistDots',

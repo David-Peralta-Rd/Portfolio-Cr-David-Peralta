@@ -51,7 +51,7 @@ const ZenData = {
             featured: true,
             desc: 'Online store project utilizing a professional multi-stage setup with development environments.',
             tags: ['Python', 'Django', 'Docker', 'Shell', 'Linux'],
-            github: 'https://github.com/David-Peralta-Rd/Ecommerce-MercyVentas',
+            github: 'https://github.com/David-Peralta-Rd/E-commerce-MercyVentas',
             live: null,
         },
 //        {
